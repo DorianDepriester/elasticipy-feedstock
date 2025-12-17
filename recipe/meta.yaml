@@ -32,7 +32,7 @@ requirements:
 
 test:
   imports:
-    - Elasticipy
+    - elasticipy
   requires:
     - python {{ python_min }}
     - pip

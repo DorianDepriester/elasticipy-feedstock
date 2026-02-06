@@ -1,6 +1,6 @@
 {% set name = "elasticipy" %}
 {% set version = "6.1.0" %}
-{% set python_min = "3.11" %}
+{% set python_min = "3.9" %}
 
 package:
   name: {{ name|lower }}
